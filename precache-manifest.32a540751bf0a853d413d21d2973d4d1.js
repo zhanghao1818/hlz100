@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e9d890b4590a0185a52399a58c03584",
+    "revision": "7027d05a1654f7cd537b82c2939a0c3a",
     "url": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/css/2.63d38472.chunk.css"
   },
   {
-    "revision": "389ff090ce7e16b41509",
+    "revision": "cbe4aac232d5cfcbb741",
     "url": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/css/main.95ad2ab2.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/js/2.4b740c5a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "389ff090ce7e16b41509",
-    "url": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/js/main.c3555a87.chunk.js"
+    "revision": "cbe4aac232d5cfcbb741",
+    "url": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/js/main.92cb18a2.chunk.js"
   },
   {
     "revision": "332cc1c9e6afa89ac6ff",

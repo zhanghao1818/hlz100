@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f939c3cd09fb4143d8acf6d99d2e9628",
+    "revision": "4bdc0022fad9dafaed64698bd6c9d517",
     "url": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/index.html"
   },
   {
-    "revision": "86de57680f9895e596da",
+    "revision": "ef3356af7efa00dcfa59",
     "url": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/css/2.63d38472.chunk.css"
   },
   {
-    "revision": "c5bc1227efbd388fbcbb",
+    "revision": "f996122a94674bcba4c3",
     "url": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/css/main.1fc7ed7b.chunk.css"
   },
   {
-    "revision": "86de57680f9895e596da",
-    "url": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/js/2.d3365482.chunk.js"
+    "revision": "ef3356af7efa00dcfa59",
+    "url": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/js/2.16e50c29.chunk.js"
   },
   {
     "revision": "328b6868efc601464a5a18673397ef38",
-    "url": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/js/2.d3365482.chunk.js.LICENSE.txt"
+    "url": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/js/2.16e50c29.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c5bc1227efbd388fbcbb",
-    "url": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/js/main.63273704.chunk.js"
+    "revision": "f996122a94674bcba4c3",
+    "url": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/js/main.fc57fad6.chunk.js"
   },
   {
     "revision": "332cc1c9e6afa89ac6ff",

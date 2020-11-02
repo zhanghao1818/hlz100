@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/css/main.1da71fce.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/js/main.afbc7a95.chunk.js",
+    "main.css": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/css/main.b1d8b397.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/js/main.07b18d86.chunk.js",
     "runtime-main.js": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/js/runtime-main.af93d5b7.js",
     "static/js/2.877c9761.chunk.js": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/js/2.877c9761.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/index.html",
-    "precache-manifest.279cafbb1d85d9f3717bfd204b970873.js": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/precache-manifest.279cafbb1d85d9f3717bfd204b970873.js",
+    "precache-manifest.685ee0beca4a4bb33f3856b3f9edda62.js": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/precache-manifest.685ee0beca4a4bb33f3856b3f9edda62.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/service-worker.js",
     "static/js/2.877c9761.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/js/2.877c9761.chunk.js.LICENSE.txt",
     "static/media/beijing.png": "https://cdn.jsdelivr.net/gh/zhanghao1818/hlz100@1.0.0/static/media/beijing.16268e06.png",
@@ -15,7 +15,7 @@
   "entrypoints": [
     "static/js/runtime-main.af93d5b7.js",
     "static/js/2.877c9761.chunk.js",
-    "static/css/main.1da71fce.chunk.css",
-    "static/js/main.afbc7a95.chunk.js"
+    "static/css/main.b1d8b397.chunk.css",
+    "static/js/main.07b18d86.chunk.js"
   ]
 }
